@@ -1,0 +1,18 @@
+C:\Projects\assignment\FileData\FileDataUnitTest\bin\Debug\FileDataUnitTest.dll
+C:\Projects\assignment\FileData\FileDataUnitTest\bin\Debug\FileDataUnitTest.pdb
+C:\Projects\assignment\FileData\FileDataUnitTest\obj\Debug\FileDataUnitTest.csprojResolveAssemblyReference.cache
+C:\Projects\assignment\FileData\FileDataUnitTest\obj\Debug\FileDataUnitTest.dll
+C:\Projects\assignment\FileData\FileDataUnitTest\obj\Debug\FileDataUnitTest.pdb
+C:\Projects\assignment\FileData\FileDataUnitTest\bin\Debug\FileData.exe
+C:\Projects\assignment\FileData\FileDataUnitTest\bin\Debug\ThirdPartyTools.dll
+C:\Projects\assignment\FileData\FileDataUnitTest\bin\Debug\FileData.pdb
+C:\Projects\assignment\FileData\FileDataUnitTest\bin\Debug\ThirdPartyTools.pdb
+C:\My Assignment\assignment\FileData\FileDataUnitTest\bin\Debug\FileDataUnitTest.dll
+C:\My Assignment\assignment\FileData\FileDataUnitTest\bin\Debug\FileDataUnitTest.pdb
+C:\My Assignment\assignment\FileData\FileDataUnitTest\bin\Debug\FileData.exe
+C:\My Assignment\assignment\FileData\FileDataUnitTest\bin\Debug\ThirdPartyTools.dll
+C:\My Assignment\assignment\FileData\FileDataUnitTest\bin\Debug\FileData.pdb
+C:\My Assignment\assignment\FileData\FileDataUnitTest\bin\Debug\ThirdPartyTools.pdb
+C:\My Assignment\assignment\FileData\FileDataUnitTest\obj\Debug\FileDataUnitTest.csprojResolveAssemblyReference.cache
+C:\My Assignment\assignment\FileData\FileDataUnitTest\obj\Debug\FileDataUnitTest.dll
+C:\My Assignment\assignment\FileData\FileDataUnitTest\obj\Debug\FileDataUnitTest.pdb

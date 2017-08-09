@@ -1,0 +1,18 @@
+C:\Projects\assignment\FileData\FileData\bin\Debug\FileData.exe.config
+C:\Projects\assignment\FileData\FileData\bin\Debug\FileData.exe
+C:\Projects\assignment\FileData\FileData\bin\Debug\FileData.pdb
+C:\Projects\assignment\FileData\FileData\obj\Debug\FileData.csprojResolveAssemblyReference.cache
+C:\Projects\assignment\FileData\FileData\obj\Debug\FileData.exe
+C:\Projects\assignment\FileData\FileData\obj\Debug\FileData.pdb
+C:\Projects\assignment\FileData\FileData\bin\Debug\ThirdPartyTools.dll
+C:\Projects\assignment\FileData\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\My Assignment\assignment\FileData\FileData\bin\Debug\FileData.exe.config
+C:\My Assignment\assignment\FileData\FileData\bin\Debug\FileData.exe
+C:\My Assignment\assignment\FileData\FileData\bin\Debug\FileData.pdb
+C:\My Assignment\assignment\FileData\FileData\bin\Debug\ThirdPartyTools.dll
+C:\My Assignment\assignment\FileData\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\My Assignment\assignment\FileData\FileData\obj\Debug\FileData.exe
+C:\My Assignment\assignment\FileData\FileData\obj\Debug\FileData.pdb
+C:\My Assignment\assignment_Pravin_Khalase\FileData\FileData\bin\Debug\FileData.exe.config
+C:\My Assignment\assignment_Pravin_Khalase\FileData\FileData\obj\Debug\FileData.exe
+C:\My Assignment\assignment_Pravin_Khalase\FileData\FileData\obj\Debug\FileData.pdb

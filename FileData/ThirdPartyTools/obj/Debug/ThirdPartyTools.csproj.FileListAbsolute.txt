@@ -1,0 +1,4 @@
+C:\Users\xbbnd81\Downloads\assignment1\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\xbbnd81\Downloads\assignment1\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\xbbnd81\Downloads\assignment1\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\xbbnd81\Downloads\assignment1\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
